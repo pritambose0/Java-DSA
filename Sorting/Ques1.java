@@ -18,9 +18,9 @@ public class Ques1 {
                     x = i-1;
                     y = i;
                 }
-                else{
-                    y = i;
-                }
+                // else{
+                //     y = i;
+                // }
             }
         }
 
