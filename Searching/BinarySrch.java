@@ -8,7 +8,7 @@ public class BinarySrch {
         int mid = (s+e)/2;
 
         // Base Case
-        if(s>e) return 0;
+        if(s>e) return -1;
 
         //Recursive Work
         if(arr[mid] == target){
