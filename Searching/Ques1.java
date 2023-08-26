@@ -1,6 +1,6 @@
 // Left Most Index of an Array using Binary Search Algorithm
 
-public class Que1{
+public class Ques1{
     public static void main(String[] args) {
         int[] arr = {1,2,3,3,4,6,3};
         System.out.println(leftIdx(arr,0,arr.length-1,3));
